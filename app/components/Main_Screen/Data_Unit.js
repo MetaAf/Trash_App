@@ -7,7 +7,7 @@ export default class Data_Unit extends React.Component {
     render() {
         return (
               <View style={styles.layouts}>
-                <View style={styles.button_layout}>
+                <View style={styles.text_container_layout}>
                   <View style={styles.item_container}>
                     <View style={styles.item_container_inner}>
                       <View style={styles.text_border}>
